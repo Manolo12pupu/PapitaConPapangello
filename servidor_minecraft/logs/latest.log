@@ -1,0 +1,187 @@
+[21:04:35] [main/INFO]: Loading Minecraft 1.21.9 with Fabric Loader 0.17.2
+[21:04:36] [main/INFO]: Loading 42 mods:
+	- fabric-api 0.134.0+1.21.9
+	   |-- fabric-api-base 1.0.0+14b92d897d
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682157d
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f7d
+	   |-- fabric-block-api-v1 1.1.5+d17682157d
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b927d
+	   |-- fabric-command-api-v2 2.3.7+328a75ba7d
+	   |-- fabric-content-registries-v0 10.2.3+b6a242647d
+	   |-- fabric-convention-tags-v1 2.1.47+7f945d5b7d
+	   |-- fabric-convention-tags-v2 2.15.12+3154c1c87d
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e7d
+	   |-- fabric-data-attachment-api-v1 1.8.28+9bce411b7d
+	   |-- fabric-data-generation-api-v1 23.2.22+d8b85ef17d
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc197d
+	   |-- fabric-entity-events-v1 2.1.12+14b92d897d
+	   |-- fabric-events-interaction-v0 4.0.35+5ba217127d
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae57d
+	   |-- fabric-item-api-v1 11.5.8+9bce411b7d
+	   |-- fabric-item-group-api-v1 4.2.24+86b3ae577d
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c487d
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e7d
+	   |-- fabric-loot-api-v2 3.0.64+3f89f5a57d
+	   |-- fabric-loot-api-v3 2.0.11+d17682157d
+	   |-- fabric-message-api-v1 6.1.7+3154c1c87d
+	   |-- fabric-model-loading-api-v1 6.0.0+3ffd6ef07d
+	   |-- fabric-networking-api-v1 5.0.13+d269470c7d
+	   |-- fabric-object-builder-api-v1 21.1.24+9bce411b7d
+	   |-- fabric-particles-v1 4.2.2+a0ee59a47d
+	   |-- fabric-recipe-api-v1 8.1.26+d17682157d
+	   |-- fabric-registry-sync-v0 6.1.41+679c8c5c7d
+	   |-- fabric-renderer-api-v1 7.1.1+328a75ba7d
+	   |-- fabric-renderer-indigo 4.0.19+328a75ba7d
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae577d
+	   |-- fabric-rendering-v1 16.0.1+328a75ba7d
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e7d
+	   |-- fabric-resource-loader-v0 3.2.2+3388a3b27d
+	   |-- fabric-resource-loader-v1 1.0.2+225bca407d
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7987d
+	   |-- fabric-screen-handler-api-v1 1.3.150+d17682157d
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9767d
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba7d
+	   |-- fabric-tag-api-v1 1.2.10+2fa446b27d
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c127d
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43437d
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.9
+	- shared_inventory 1
+[21:04:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/PapitaConPapangello/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:04:37] [main/INFO]: Compatibility level set to JAVA_21
+[21:04:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:04:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:04:46] [main/INFO]: Loaded 1461 recipes
+[21:04:46] [main/INFO]: Loaded 1574 advancements
+[21:04:47] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.437 ms
+[21:04:47] [Server thread/INFO]: Starting minecraft server version 1.21.9
+[21:04:47] [Server thread/INFO]: Loading properties
+[21:04:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:04:47] [Server thread/INFO]: Generating keypair
+[21:04:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:04:47] [Server thread/INFO]: Using epoll channel type
+[21:04:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:04:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:04:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:04:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:04:47] [Server thread/INFO]: Preparing level "world"
+[21:04:47] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:04:47] [Server thread/INFO]: Preparing spawn area: 100%
+[21:04:47] [Server thread/INFO]: Time elapsed: 132 ms
+[21:04:47] [Server thread/INFO]: Done (0.574s)! For help, type "help"
+[21:04:53] [Server thread/INFO]: Goj0[/127.148.236.202:34027] logged in with entity id 50 at (76.78016176180778, 71.0, -134.81801293000677)
+[21:04:53] [Server thread/INFO]: Goj0 joined the game
+[21:05:24] [Server thread/INFO]: MS_484[/127.65.23.138:54637] logged in with entity id 1360 at (65.5, 69.0, -131.5)
+[21:05:24] [Server thread/INFO]: MS_484 joined the game
+[21:07:35] [Server thread/INFO]: MS_484 has made the advancement [Stone Age]
+[21:07:35] [Server thread/INFO]: Goj0 has made the advancement [Stone Age]
+[21:07:50] [Server thread/INFO]: Goj0 has made the advancement [Getting an Upgrade]
+[21:07:50] [Server thread/INFO]: MS_484 has made the advancement [Getting an Upgrade]
+[21:12:09] [Server thread/INFO]: Goj0 has made the advancement [Monster Hunter]
+[21:12:38] [Server thread/INFO]: MS_484 has made the advancement [Monster Hunter]
+[21:13:12] [Server thread/INFO]: MS_484 was slain by Zombie Villager
+[21:15:08] [Server thread/INFO]: Nexzzy22[/127.185.96.214:42415] logged in with entity id 5528 at (59.5, 70.0, -122.5)
+[21:15:08] [Server thread/INFO]: Nexzzy22 joined the game
+[21:15:26] [Server thread/INFO]: Aaronixas28[/127.185.96.214:42141] logged in with entity id 5890 at (69.5, 69.0, -128.5)
+[21:15:26] [Server thread/INFO]: Aaronixas28 joined the game
+[21:15:35] [Server thread/INFO]: [Not Secure] <Goj0> omar se conecto
+[21:16:03] [Server thread/INFO]: Aaronixas28 has made the advancement [Getting an Upgrade]
+[21:16:03] [Server thread/INFO]: Nexzzy22 has made the advancement [Getting an Upgrade]
+[21:16:17] [Server thread/INFO]: Nexzzy22 has made the advancement [Stone Age]
+[21:16:18] [Server thread/INFO]: Aaronixas28 has made the advancement [Stone Age]
+[21:16:19] [Server thread/INFO]: Goj0 was slain by Zombie Villager
+[21:16:32] [Server thread/INFO]: Goj0 has made the advancement [Sweet Dreams]
+[21:16:39] [Server thread/INFO]: Nexzzy22 has made the advancement [Monster Hunter]
+[21:17:53] [Server thread/INFO]: MS_484 lost connection: Disconnected
+[21:17:53] [Server thread/INFO]: MS_484 left the game
+[21:17:57] [Server thread/INFO]: MS_484[/127.65.23.138:46879] logged in with entity id 6759 at (117.07719379090018, 69.0, -195.0427330448711)
+[21:17:57] [Server thread/INFO]: MS_484 joined the game
+[21:18:02] [Server thread/INFO]: MS_484 was slain by Goj0
+[21:19:35] [Server thread/INFO]: Goj0 was slain by MS_484
+[21:19:43] [Server thread/INFO]: MS_484 was slain by Goj0
+[21:19:46] [Server thread/INFO]: [Not Secure] <Goj0> ez
+[21:21:52] [Server thread/INFO]: [Not Secure] <Goj0> omar
+[21:21:54] [Server thread/INFO]: [Not Secure] <Goj0> quieto omar
+[21:23:13] [Server thread/INFO]: [Not Secure] <Goj0> omar para
+[21:23:18] [Server thread/INFO]: [Not Secure] <Goj0> esto es dañino
+[21:23:23] [Server thread/INFO]: [Not Secure] <Goj0> no salves a andres
+[21:24:25] [Server thread/INFO]: Aaronixas28 was slain by Goj0
+[21:27:02] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[21:27:09] [Server thread/INFO]: MS_484 has made the advancement [Sweet Dreams]
+[21:27:27] [Server thread/INFO]: Goj0 was slain by Aaronixas28
+[21:27:51] [Server thread/INFO]: Aaronixas28 was slain by Goj0
+[21:28:38] [Server thread/INFO]: Goj0 was slain by Aaronixas28
+[21:28:45] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[21:29:10] [Server thread/INFO]: Nexzzy22 was slain by Aaronixas28
+[21:29:10] [Server thread/INFO]: Aaronixas28 was slain by Goj0
+[21:29:26] [Server thread/INFO]: Nexzzy22 was slain by MS_484
+[21:29:34] [Server thread/INFO]: Goj0 was slain by Aaronixas28
+[21:32:18] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[21:32:46] [Server thread/INFO]: Aaronixas28 was slain by MS_484
+[21:34:46] [Server thread/INFO]: MS_484 fell from a high place
+[21:36:29] [Server thread/INFO]: Aaronixas28 fell from a high place
+[21:36:58] [Server thread/INFO]: MS_484 fell from a high place
+[21:39:11] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[21:39:30] [Server thread/INFO]: Aaronixas28 has made the advancement [A Seedy Place]
+[21:42:11] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[21:42:44] [Server thread/INFO]: Aaronixas28 lost connection: Disconnected
+[21:42:44] [Server thread/INFO]: Aaronixas28 left the game
+[21:43:48] [Server thread/INFO]: Aaronixas28[/127.185.96.214:51487] logged in with entity id 25631 at (56.933236237205044, 69.0, 81.20767726050666)
+[21:43:48] [Server thread/INFO]: Aaronixas28 joined the game
+[21:43:50] [Server thread/INFO]: [Not Secure] <Goj0> DIOS
+[21:45:29] [Server thread/INFO]: MS_484 lost connection: Timed out
+[21:45:29] [Server thread/INFO]: MS_484 left the game
+[21:45:29] [Server thread/WARN]: handleDisconnection() called twice
+[21:45:46] [Server thread/INFO]: MS_484[/127.65.23.138:56469] logged in with entity id 27294 at (147.522381671016, 66.0, 76.76758121341915)
+[21:45:46] [Server thread/INFO]: MS_484 joined the game
+[21:46:16] [Server thread/INFO]: MS_484 lost connection: Timed out
+[21:46:16] [Server thread/INFO]: MS_484 left the game
+[21:46:38] [Server thread/INFO]: MS_484[/127.65.23.138:57339] logged in with entity id 28238 at (147.522381671016, 66.0, 76.76758121341915)
+[21:46:38] [Server thread/INFO]: MS_484 joined the game
+[21:47:00] [Server thread/INFO]: Aaronixas28 has made the advancement [Acquire Hardware]
+[21:47:00] [Server thread/INFO]: Nexzzy22 has made the advancement [Acquire Hardware]
+[21:47:00] [Server thread/INFO]: Goj0 has made the advancement [Acquire Hardware]
+[21:47:00] [Server thread/INFO]: MS_484 has made the advancement [Acquire Hardware]
+[21:48:11] [Server thread/INFO]: Goj0 has made the advancement [Isn't It Iron Pick]
+[21:48:11] [Server thread/INFO]: Nexzzy22 has made the advancement [Isn't It Iron Pick]
+[21:48:11] [Server thread/INFO]: Aaronixas28 has made the advancement [Isn't It Iron Pick]
+[21:48:11] [Server thread/INFO]: MS_484 has made the advancement [Isn't It Iron Pick]
+[21:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[21:50:11] [Server thread/INFO]: Goj0 has made the advancement [Not Today, Thank You]
+[21:50:22] [Server thread/INFO]: [Not Secure] <MS_484> barra ban OMarrrrrr
+[21:50:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[21:51:16] [Server thread/INFO]: Goj0 was slain by Zombie
+[21:52:10] [Server thread/INFO]: Nexzzy22 has made the advancement [Not Today, Thank You]
+[21:52:25] [Server thread/INFO]: Aaronixas28 has made the advancement [Not Today, Thank You]
+[21:53:02] [Server thread/INFO]: Aaronixas28 has made the advancement [Monster Hunter]
+[21:53:24] [Server thread/INFO]: [Not Secure] <MS_484> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[21:53:28] [Server thread/INFO]: Aaronixas28 was slain by Zombie
+[21:54:52] [Server thread/INFO]: Nexzzy22 fell from a high place
+[21:55:35] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[21:56:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=229, y=70, z=492} class_2338{x=229, y=68, z=491}
+[21:57:19] [Server thread/INFO]: Nexzzy22 lost connection: Disconnected
+[21:57:19] [Server thread/INFO]: Nexzzy22 left the game
+[21:58:41] [Server thread/INFO]: Aaronixas28 was slain by MS_484
+[21:58:51] [Server thread/INFO]: [Not Secure] <MS_484> Ezzzzzzzzzzzzzzzzzz
+[21:59:04] [Server thread/INFO]: [Not Secure] <MS_484> papeaadooooooooooooooooooooooooo}+
+[21:59:32] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[22:00:23] [Server thread/INFO]: [Not Secure] <MS_484> omar
+[22:00:26] [Server thread/INFO]: [Not Secure] <MS_484> satop
+[22:00:32] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[22:01:59] [Server thread/INFO]: MS_484 was slain by Aaronixas28
+[22:03:12] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[22:03:12] [Server thread/INFO]: Goj0 left the game
+[22:03:23] [Server thread/INFO]: Stopping the server
+[22:03:23] [Server thread/INFO]: Stopping server
+[22:03:23] [Server thread/INFO]: Saving players
+[22:03:23] [Server thread/INFO]: Saving worlds
+[22:03:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:03:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:03:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:03:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:03:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:03:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:03:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
