@@ -1,0 +1,184 @@
+[01:01:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[01:01:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) for Minecraft 1.21.11
+[01:01:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:01:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[01:01:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - Geyser-Spigot (2.9.5-SNAPSHOT), ViaBackwards (5.8.1), ViaVersion (5.8.1), floodgate (2.2.5-SNAPSHOT (b131-869338c))
+[01:01:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:01:58] [ServerMain/INFO]: Loaded 1470 recipes
+[01:01:58] [ServerMain/INFO]: Loaded 1584 advancements
+[01:01:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[01:01:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 417.3ms
+[01:01:58] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[01:01:58] [Server thread/INFO]: Loading properties
+[01:01:58] [Server thread/INFO]: This server is running Paper version 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[01:01:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:01:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:01:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:01:59] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:02:00] [Server thread/INFO]: Default game type: SURVIVAL
+[01:02:00] [Server thread/INFO]: Generating keypair
+[01:02:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:02:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:02:00] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[01:02:00] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.8.1
+[01:02:00] [Server thread/INFO]: [ViaVersion] ViaVersion 5.8.1 is now loaded. Registering protocol transformers and injecting...
+[01:02:01] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:02:01] [Via-Mappingloader-1/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:02:02] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[01:02:02] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[01:02:02] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b131-869338c)
+[01:02:03] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:02:03] [Server thread/INFO]: [floodgate] Took 1,099ms to boot Floodgate
+[01:02:03] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.8.1
+[01:02:03] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.5-SNAPSHOT
+[01:02:04] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:02:04] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:02:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:02:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:02:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:02:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:02:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:02:04] [Server thread/INFO]: Preparing level "world"
+[01:02:04] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[01:02:04] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[01:02:04] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[01:02:04] [Server thread/INFO]: Preparing spawn area: 100%
+[01:02:04] [Server thread/INFO]: Prepared spawn area in 3 ms
+[01:02:04] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[01:02:04] [Server thread/INFO]: Prepared spawn area in 1 ms
+[01:02:04] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[01:02:04] [Server thread/INFO]: Prepared spawn area in 1 ms
+[01:02:04] [Server thread/INFO]: Done preparing level "world" (0.569s)
+[01:02:04] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.8.1
+[01:02:04] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.11 (774)
+[01:02:04] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b131-869338c)
+[01:02:05] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.8.1
+[01:02:05] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.5-SNAPSHOT
+[01:02:06] [Server thread/INFO]: [spark] Starting background profiler...
+[01:02:08] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:02:08] [Server thread/INFO]: [Geyser-Spigot] 
+[01:02:08] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.5-b1107 (git-master-cc7ae04)
+[01:02:08] [Server thread/INFO]: [Geyser-Spigot] 
+[01:02:08] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:02:11] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2485
+[01:02:11] [Server thread/INFO]: [Geyser-Spigot] Done (3.513s)! Run /geyser help for help!
+[01:02:11] [Server thread/INFO]: Running delayed init tasks
+[01:02:11] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:02:11] [Server thread/INFO]: Done (28.542s)! For help, type "help"
+[01:02:11] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 28 build(s) behind ***
+[01:02:11] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[01:04:01] [User Authenticator #0/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:04:06] [Server thread/INFO]: Goj0 joined the game
+[01:04:06] [Server thread/INFO]: Goj0[/127.71.179.52:55199] logged in with entity id 7 at ([world]1584.9838059464091, 71.0, 656.2167549319241)
+[01:04:38] [Server thread/INFO]: Goj0 was kicked due to keepalive timeout!
+[01:04:38] [Server thread/INFO]: Goj0 lost connection: Timed out
+[01:04:38] [Server thread/INFO]: Goj0 left the game
+[01:06:00] [User Authenticator #1/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:06:04] [Server thread/INFO]: Goj0 joined the game
+[01:06:04] [Server thread/INFO]: Goj0[/127.71.179.52:42191] logged in with entity id 503 at ([world]1584.8684233276097, 71.27518401044941, 655.9981033364974)
+[01:06:35] [Server thread/INFO]: Goj0 was kicked due to keepalive timeout!
+[01:06:35] [Server thread/INFO]: Goj0 lost connection: Timed out
+[01:06:35] [Server thread/INFO]: Goj0 left the game
+[01:08:13] [User Authenticator #2/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:08:29] [Server thread/INFO]: Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) lost connection: Timed out
+[01:08:29] [Server thread/INFO]: Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) lost connection: Timed out
+[01:09:13] [User Authenticator #3/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:09:47] [Server thread/INFO]: Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) lost connection: Timed out
+[01:09:47] [Server thread/INFO]: Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) lost connection: Disconnected
+[01:13:11] [User Authenticator #4/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:13:13] [Server thread/INFO]: Goj0 joined the game
+[01:13:13] [Server thread/INFO]: Goj0[/127.71.179.52:39801] logged in with entity id 1082 at ([world]1592.7347511680227, 71.0, 656.8838374795222)
+[01:13:44] [Server thread/INFO]: Goj0 was kicked due to keepalive timeout!
+[01:13:44] [Server thread/INFO]: Goj0 lost connection: Timed out
+[01:13:44] [Server thread/INFO]: Goj0 left the game
+[01:14:36] [User Authenticator #5/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:14:44] [Server thread/INFO]: Goj0 (38c49b64-4c4f-3860-9cc7-470580cdccc6) lost connection: Disconnected
+[01:18:09] [User Authenticator #6/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:18:12] [Server thread/INFO]: Goj0 joined the game
+[01:18:12] [Server thread/INFO]: Goj0[/127.71.179.52:60993] logged in with entity id 1584 at ([world]1588.2465435025276, 73.7531999805212, 663.6999999880791)
+[01:19:12] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[01:19:12] [Server thread/INFO]: Goj0 left the game
+[01:19:32] [User Authenticator #7/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:19:32] [Server thread/INFO]: Goj0 joined the game
+[01:19:32] [Server thread/INFO]: Goj0[/127.71.179.52:45607] logged in with entity id 1982 at ([world]1630.9400315371981, 85.0, 651.584476202719)
+[01:23:46] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[01:23:46] [Server thread/INFO]: Goj0 left the game
+[01:23:51] [User Authenticator #8/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:23:53] [Server thread/INFO]: Goj0 joined the game
+[01:23:53] [Server thread/INFO]: Goj0[/127.71.179.52:40021] logged in with entity id 2971 at ([world]1579.3972272360731, 69.0, 731.7064774798224)
+[01:24:54] [Server thread/INFO]: Goj0 issued server command: /difficulty hard
+[01:24:54] [Server thread/INFO]: [Goj0: The difficulty has been set to Hard]
+[01:25:57] [Server thread/WARN]: Goj0 moved too quickly! -8.295739823886379,-1.0,5.717751586058171
+[01:26:12] [Server thread/INFO]: Goj0 was slain by Zombie
+[01:26:16] [Server thread/INFO]: Goj0 was kicked due to keepalive timeout!
+[01:26:16] [Server thread/INFO]: Goj0 lost connection: Timed out
+[01:26:16] [Server thread/INFO]: Goj0 left the game
+[01:27:07] [User Authenticator #9/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:27:11] [Server thread/INFO]: Goj0 joined the game
+[01:27:11] [Server thread/INFO]: Goj0[/127.71.179.52:38833] logged in with entity id 3489 at ([world]1608.9845915057456, 72.0, 711.5348125123907)
+[01:27:34] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[01:27:34] [Server thread/INFO]: Goj0 left the game
+[01:27:41] [User Authenticator #9/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[01:27:41] [Server thread/INFO]: Goj0 joined the game
+[01:27:41] [Server thread/INFO]: Goj0[/127.71.179.52:50099] logged in with entity id 3618 at ([world]1608.9845915057456, 72.0, 711.5348125123907)
+[01:27:48] [Server thread/INFO]: Goj0 issued server command: /gamemode creative
+[01:27:48] [Server thread/INFO]: [Goj0: Set own game mode to Creative Mode]
+[01:28:18] [Server thread/INFO]: Goj0 issued server command: /gamemode spectator
+[01:28:18] [Server thread/INFO]: [Goj0: Set own game mode to Spectator Mode]
+[01:28:34] [Server thread/INFO]: Goj0 issued server command: /gamemode survival
+[01:28:34] [Server thread/INFO]: [Goj0: Set own game mode to Survival Mode]
+[01:52:57] [Server thread/INFO]: Goj0 issued server command: /difficulty hard
+[01:54:05] [Server thread/INFO]: Villager Villager['Librarian'/3710, uuid='a2ceee9a-3fb7-49ff-9556-3c1ce0e38d4d', l='ServerLevel[world]', x=1711.51, y=68.00, z=619.53, cpos=[106, 38], tl=31601, v=true] died, message: 'Librarian was slain by Gianfranco Mahmud Villalobos'
+[01:58:35] [Server thread/INFO]: Goj0 issued server command: /difficulty normal
+[01:58:35] [Server thread/INFO]: [Goj0: The difficulty has been set to Normal]
+[02:05:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Goj0> 1720 503
+[02:26:30] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[02:26:30] [Server thread/INFO]: Goj0 left the game
+[02:27:01] [User Authenticator #10/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[02:27:02] [Server thread/INFO]: Goj0 joined the game
+[02:27:02] [Server thread/INFO]: Goj0[/127.71.179.52:45591] logged in with entity id 13198 at ([world_nether]212.4439045647432, 65.875, 68.30000001192093)
+[02:30:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> 214 69
+[02:39:58] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[02:39:58] [Server thread/INFO]: Goj0 left the game
+[02:43:34] [Server thread/INFO]: Stopping the server
+[02:43:34] [Server thread/INFO]: Stopping server
+[02:43:34] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.5-SNAPSHOT
+[02:43:34] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[02:43:34] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[02:43:34] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.8.1
+[02:43:34] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b131-869338c)
+[02:43:34] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.8.1
+[02:43:34] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:43:34] [Server thread/INFO]: Saving players
+[02:43:34] [WebSocketConnectReadThread-79/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[02:43:34] [Server thread/INFO]: Saving worlds
+[02:43:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:43:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:43:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:43:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:43:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:43:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:43:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:43:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:43:34] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[02:43:34] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[02:43:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:43:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
